@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T19:09:28.978Z",
+  "generated_at": "2026-10-29T19:09:30.803Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -76,6 +76,71 @@
       "path": "problems/0005-scalar-multiplication-of-a-matrix",
       "first_solved_at": "2026-09-22T01:01:46.150Z",
       "last_pushed_at": "2026-09-22T01:01:46.150Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2026-10-02T18:45:15.037Z",
+      "last_pushed_at": "2026-10-02T18:45:15.037Z",
+      "language": "python",
+      "lines": 3
+    },
+    "problem:7": {
+      "kind": "problem",
+      "id": "7",
+      "title": "Matrix Transformation ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/7",
+      "path": "problems/0007-matrix-transformation",
+      "first_solved_at": "2026-10-02T18:51:52.954Z",
+      "last_pushed_at": "2026-10-02T18:51:52.954Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:8": {
+      "kind": "problem",
+      "id": "8",
+      "title": "Calculate 2x2 Matrix Inverse",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/8",
+      "path": "problems/0008-calculate-2x2-matrix-inverse",
+      "first_solved_at": "2026-10-02T19:00:56.408Z",
+      "last_pushed_at": "2026-10-02T19:00:56.408Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:10": {
+      "kind": "problem",
+      "id": "10",
+      "title": "Calculate Covariance Matrix",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/10",
+      "path": "problems/0010-calculate-covariance-matrix",
+      "first_solved_at": "2026-10-02T19:11:37.367Z",
+      "last_pushed_at": "2026-10-02T19:11:37.367Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:14": {
+      "kind": "problem",
+      "id": "14",
+      "title": "Linear Regression Using Normal Equation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/14",
+      "path": "problems/0014-linear-regression-using-normal-equation",
+      "first_solved_at": "2026-10-02T21:27:34.750Z",
+      "last_pushed_at": "2026-10-02T21:27:34.750Z",
       "language": "python",
       "lines": 5
     }
