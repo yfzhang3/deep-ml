@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T19:09:32.882Z",
+  "generated_at": "2026-10-29T19:09:34.885Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -156,6 +156,45 @@
       "last_pushed_at": "2026-10-03T17:46:22.008Z",
       "language": "python",
       "lines": 25
+    },
+    "problem:16": {
+      "kind": "problem",
+      "id": "16",
+      "title": "Feature Scaling Implementation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/16",
+      "path": "problems/0016-feature-scaling-implementation",
+      "first_solved_at": "2026-10-05T00:49:30.280Z",
+      "last_pushed_at": "2026-10-05T00:49:30.280Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:76": {
+      "kind": "problem",
+      "id": "76",
+      "title": "Calculate Cosine Similarity Between Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/76",
+      "path": "problems/0076-calculate-cosine-similarity-between-vectors",
+      "first_solved_at": "2026-10-05T18:49:02.148Z",
+      "last_pushed_at": "2026-10-05T18:49:02.148Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:173": {
+      "kind": "problem",
+      "id": "173",
+      "title": "Implement K-Nearest Neighbors",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/173",
+      "path": "problems/0173-implement-k-nearest-neighbors",
+      "first_solved_at": "2026-10-05T22:25:37.261Z",
+      "last_pushed_at": "2026-10-05T22:25:37.261Z",
+      "language": "python",
+      "lines": 23
     }
   }
 }
