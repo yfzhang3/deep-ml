@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T19:09:40.495Z",
+  "generated_at": "2026-10-29T19:09:42.455Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -286,6 +286,84 @@
       "last_pushed_at": "2026-10-21T17:58:21.599Z",
       "language": "python",
       "lines": 12
+    },
+    "problem:885": {
+      "kind": "problem",
+      "id": "885",
+      "title": "Build a Linear Regression Model with nn.Module",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/885",
+      "path": "problems/0885-build-a-linear-regression-model-with-nn-module",
+      "first_solved_at": "2026-10-22T03:24:24.647Z",
+      "last_pushed_at": "2026-10-22T03:24:24.647Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:886": {
+      "kind": "problem",
+      "id": "886",
+      "title": "Run One Training Step: Forward, Loss, Backward, Optimizer",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/886",
+      "path": "problems/0886-run-one-training-step-forward-loss-backward-optimizer",
+      "first_solved_at": "2026-10-22T17:36:38.896Z",
+      "last_pushed_at": "2026-10-22T17:36:38.896Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:887": {
+      "kind": "problem",
+      "id": "887",
+      "title": "Build an MLP with nn.Sequential",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/887",
+      "path": "problems/0887-build-an-mlp-with-nn-sequential",
+      "first_solved_at": "2026-10-22T18:07:45.326Z",
+      "last_pushed_at": "2026-10-22T18:07:45.326Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:888": {
+      "kind": "problem",
+      "id": "888",
+      "title": "Save and Load Model Weights with state_dict",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/888",
+      "path": "problems/0888-save-and-load-model-weights-with-state-dict",
+      "first_solved_at": "2026-10-22T19:12:59.702Z",
+      "last_pushed_at": "2026-10-22T19:12:59.702Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:898": {
+      "kind": "problem",
+      "id": "898",
+      "title": "Backprop a Linear Layer by Hand",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/898",
+      "path": "problems/0898-backprop-a-linear-layer-by-hand",
+      "first_solved_at": "2026-10-22T21:08:54.213Z",
+      "last_pushed_at": "2026-10-22T21:08:54.213Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:899": {
+      "kind": "problem",
+      "id": "899",
+      "title": "Build a Dataset and Use It with a DataLoader",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/899",
+      "path": "problems/0899-build-a-dataset-and-use-it-with-a-dataloader",
+      "first_solved_at": "2026-10-22T21:12:30.426Z",
+      "last_pushed_at": "2026-10-22T21:12:30.426Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }
