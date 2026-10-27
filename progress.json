@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T19:09:46.230Z",
+  "generated_at": "2026-10-29T19:09:48.057Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -390,6 +390,69 @@
       "last_pushed_at": "2026-10-26T00:30:59.601Z",
       "language": "python",
       "lines": 21
+    },
+    "problem:908": {
+      "kind": "problem",
+      "id": "908",
+      "title": "Implement LayerNorm from Scratch",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/908",
+      "path": "problems/0908-implement-layernorm-from-scratch",
+      "first_solved_at": "2026-10-27T18:54:25.685Z",
+      "last_pushed_at": "2026-10-27T18:54:25.685Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:902": {
+      "kind": "problem",
+      "id": "902",
+      "title": "Implement BatchNorm2d from Scratch (training mode)",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/902",
+      "path": "problems/0902-implement-batchnorm2d-from-scratch-training-mode",
+      "first_solved_at": "2026-10-27T19:26:56.615Z",
+      "last_pushed_at": "2026-10-27T19:26:56.615Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:1231": {
+      "kind": "problem",
+      "id": "1231",
+      "title": "BatchNorm1d Forward in Eval Mode",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1231",
+      "path": "problems/1231-batchnorm1d-forward-in-eval-mode",
+      "first_solved_at": "2026-10-27T19:45:48.913Z",
+      "last_pushed_at": "2026-10-27T19:45:48.913Z",
+      "language": "python",
+      "lines": 19
+    },
+    "math:7": {
+      "kind": "math",
+      "id": "7",
+      "title": "Vector Operations",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/7",
+      "path": "math/0007-vector-operations",
+      "first_solved_at": "2026-10-27T20:51:48.227Z",
+      "last_pushed_at": "2026-10-27T20:51:48.227Z"
+    },
+    "problem:83": {
+      "kind": "problem",
+      "id": "83",
+      "title": "Dot Product Calculator",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/83",
+      "path": "problems/0083-dot-product-calculator",
+      "first_solved_at": "2026-10-27T20:52:27.988Z",
+      "last_pushed_at": "2026-10-27T20:52:27.988Z",
+      "language": "python",
+      "lines": 13
     }
   }
 }

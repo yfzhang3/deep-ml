@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**30** solved · 30 problems · 0 labs · 0 math
+**35** solved · 34 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -23,9 +23,11 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-09-15 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Compute a Gradient with PyTorch Autograd](https://www.deep-ml.com/problems/884) | easy | 2026-10-21 | [solution](problems/0884-compute-a-gradient-with-pytorch-autograd) |
 | [Create a Float Tensor from a Python List](https://www.deep-ml.com/problems/880) | easy | 2026-10-21 | [solution](problems/0880-create-a-float-tensor-from-a-python-list) |
+| [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-10-27 | [solution](problems/0083-dot-product-calculator) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-10-05 | [solution](problems/0016-feature-scaling-implementation) |
 | [Implement a Linear Layer Forward Pass with Matrix Multiplication](https://www.deep-ml.com/problems/883) | easy | 2026-10-21 | [solution](problems/0883-implement-a-linear-layer-forward-pass-with-matrix-multiplication) |
 | [Implement Dropout from Scratch](https://www.deep-ml.com/problems/901) | easy | 2026-10-24 | [solution](problems/0901-implement-dropout-from-scratch) |
+| [Implement LayerNorm from Scratch](https://www.deep-ml.com/problems/908) | easy | 2026-10-27 | [solution](problems/0908-implement-layernorm-from-scratch) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-10-03 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-10-02 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-09-15 | [solution](problems/0001-matrix-vector-dot-product) |
@@ -35,13 +37,21 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Save and Load Model Weights with state_dict](https://www.deep-ml.com/problems/888) | easy | 2026-10-22 | [solution](problems/0888-save-and-load-model-weights-with-state-dict) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-09-22 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-09-15 | [solution](problems/0002-transpose-of-a-matrix) |
+| [BatchNorm1d Forward in Eval Mode](https://www.deep-ml.com/problems/1231) | medium | 2026-10-27 | [solution](problems/1231-batchnorm1d-forward-in-eval-mode) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-10-02 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
+| [Implement BatchNorm2d from Scratch (training mode)](https://www.deep-ml.com/problems/902) | medium | 2026-10-27 | [solution](problems/0902-implement-batchnorm2d-from-scratch-training-mode) |
 | [Implement K-Means++ Initialization](https://www.deep-ml.com/problems/362) | medium | 2026-10-07 | [solution](problems/0362-implement-k-means-initialization) |
 | [Implement K-Nearest Neighbors](https://www.deep-ml.com/problems/173) | medium | 2026-10-05 | [solution](problems/0173-implement-k-nearest-neighbors) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-10-08 | [solution](problems/0017-k-means-clustering) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-09-15 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-10-02 | [solution](problems/0007-matrix-transformation) |
 | [Register Parameters and Buffers on a Custom Module](https://www.deep-ml.com/problems/1339) | medium | 2026-10-26 | [solution](problems/1339-register-parameters-and-buffers-on-a-custom-module) |
+
+## Math
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-10-27 | [solution](math/0007-vector-operations) |
 
 ---
 
